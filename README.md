@@ -2,7 +2,7 @@
 
 # The Odin Project Foundations Course- Practice Project
 
-Deconstructing and rebuilding a Google Search results page. #Updates:
+Deconstructing and rebuilding a Google Search results page using HTML and CSS Only. #Updates:
 
 - Fixed a lot of positioning issues with CSS
 - Fixed HTML document
